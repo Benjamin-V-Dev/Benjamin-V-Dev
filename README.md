@@ -3,6 +3,12 @@
 
 🔎 Développeur web depuis 2023, je recherche un **CDI** (**React** / **Node**) à **Bordeaux** ou **en télétravail**. 
 
+## 📊 Statistiques GitHub
+
+![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benjamin-V-Dev&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-V-Dev&layout=compact)
+
 # 🧰 Stack Technique
 
 👨‍🎓 Comme tout bon développeur qui se respecte, l'apprentissage fait partie de mon quotidien, je vous invite donc a venir voir régulièrement mes évolutions, et si vous voulez prendre le temps de me conseiller j'en serai ravi !
