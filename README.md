@@ -36,7 +36,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Firebase</strong>
 </p>
-
+<br>
 ## 🎨 Intégration
 
 <p>
