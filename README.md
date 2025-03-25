@@ -21,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Next.js</strong>
 </p>
+<br>
 
 ## 🧪 Backend
 
@@ -60,6 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
   <strong>SCSS / SASS</strong>
 </p>
+<br>
 
 ## 📱 Mobile
 
@@ -71,6 +73,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Expo</strong>
 </p>
+<br>
 
 ## 🚀 Déploiement
 
@@ -109,13 +112,20 @@
   <img src="https://cdn.pixabay.com/photo/2021/11/01/15/20/meta-logo-6760788_960_720.png" width="30" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Meta API</strong>
 </p>
-
+<br>
 
 
 # 🚀 Projets à découvrir
 
 - [**Thomas Lossie**](https://thomas-lossie.fr/) – Site vitrine en **Next.JS** et espace administrateur en **React** et **Node.js** 
 - 🚧 Autres projets disponibles prochainement 🚧
+<br>
+
+# 📫 Me contacter
+
+- 📩 contact@benjamin-vallon.fr
+- 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-vallon/)  
+- 🌍 [Portfolio](https://portfolio.benjamin-vallon.fr)
 
 # 🎒 Mon parcours (pour les plus motivés)
 
@@ -148,9 +158,3 @@
 ## Aujourd'hui : 32 ans
 
  - Je cherche un CDI pour obtenir une stabilité financière, pouvoir échanger avec d'autres développeurs, participer à des projets plus ambitieux.
-
-# 📫 Me contacter
-
-- 📩 contact@benjamin-vallon.fr
-- 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-vallon/)  
-- 🌍 [Portfolio](https://portfolio.benjamin-vallon.fr)
