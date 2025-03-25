@@ -11,15 +11,15 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>JavaScript</strong>
+  <strong>&nbsp;JavaScript</strong>
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>React</strong>
+  <strong>&nbsp;React</strong>
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Next.js</strong>
+  <strong>&nbsp;Next.js</strong>
 </p>
 <br>
 
@@ -27,15 +27,15 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Node.js</strong>
+  <strong>&nbsp;Node.js</strong>
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>MongoDB</strong>
+  <strong>&nbsp;MongoDB</strong>
 </p>
 <p>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Firebase</strong>
+  <strong>&nbsp;Firebase</strong>
 </p>
 <br>
 
@@ -43,23 +43,23 @@
 
 <p>
   <img src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Tailwind CSS</strong>
+  <strong>&nbsp;Tailwind CSS</strong>
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Material UI</strong>
+  <strong>&nbsp;Material UI</strong>
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Bootstrap</strong>
+  <strong>&nbsp;Bootstrap</strong>
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>CSS</strong>
+  <strong>&nbsp;CSS</strong>
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>SCSS / SASS</strong>
+  <strong>&nbsp;SCSS / SASS</strong>
 </p>
 <br>
 
@@ -67,11 +67,11 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>React Native</strong>
+  <strong>&nbsp;React Native</strong>
 </p>
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Expo</strong>
+  <strong>&nbsp;Expo</strong>
 </p>
 <br>
 
@@ -79,19 +79,19 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>VPS</strong>
+  <strong>&nbsp;VPS</strong>
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Vercel</strong>
+  <strong>&nbsp;Vercel</strong>
 </p>
 <p>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Firebase Hosting</strong>
+  <strong>&nbsp;Firebase Hosting</strong>
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Git / GitHub</strong>
+  <strong>&nbsp;Git / GitHub</strong>
 </p>
 <br>
 
@@ -99,19 +99,19 @@
 
 <p>
   <img src="https://bigbluebutton.org/wp-content/uploads/2013/10/lp-wcag-logo.png" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>SEO</strong>
+  <strong>&nbsp;SEO</strong>
 </p>
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/google-custom-search.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Accessibilité</strong>
+  <strong>&nbsp;Accessibilité</strong>
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Google API</strong>
+  <strong>&nbsp;Google API</strong>
 </p>
 <p>
   <img src="https://cdn.pixabay.com/photo/2021/11/01/15/20/meta-logo-6760788_960_720.png" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Meta API</strong>
+  <strong>&nbsp;Meta API</strong>
 </p>
 <br>
 
