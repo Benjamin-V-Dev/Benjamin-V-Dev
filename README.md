@@ -93,6 +93,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Git / GitHub</strong>
 </p>
+<br>
 
 ## 📦 Autres compétences
 
@@ -126,35 +127,41 @@
 - 📩 contact@benjamin-vallon.fr
 - 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-vallon/)  
 - 🌍 [Portfolio](https://portfolio.benjamin-vallon.fr)
+<br>
 
 # 🎒 Mon parcours (pour les plus motivés)
+<br>
 
 ## Enfant : < 16 ans
 
  - J'aimais les énigmes, les casses-tête et la logique.
  - Je cassais mes jouets pour comprendre comment ils fonctionnaient.
+<br>
 
 ## Adolescent : 16 - 20 ans
 
  - Je montais / démontais régulièrement mon ordi d'occasion pour le maintenir en vie.
  - Je passais la majorité de mon temps sur le **site du zéro**
  - Je voulais devenir développeur mais mes parents n'étaient pas de cet avis. J'ai donc choisi le métier "logique" le plus crédible pour eux : électricien.
+<br>
 
 ## Jeune adulte : 20 - 30 ans
 
  - L'électricité c'est sympa, mais au bout d'un moment c'est répétitif.
  - Je me dirige vers une certification de diagnostiqueur immobilier (c'est complet, ça évolue tout le temps, il faut être rigoureux, c'est parfait pour moi !)
- - Je deviens responsable d'agence, je réalise toujours des diagnostics mais je gère également une équipe, la prospection, les clients, la veille et la digitalisation de l'entreprise (fini l'agenda papier et la sauvegarde sur clé USB !!!)
- - Je deviens membre du conseil d'administration de notre fédération, je participe à l'évolution du métier, je conseille d'autres diagnostiqueurs et j'apprends à communiquer avec nos adhérents.
+ - Je deviens responsable d'agence, je réalise toujours des diagnostics mais je gère également une équipe, la **prospection**, les **clients**, la **veille réglementaire** et la **digitalisation de l'entreprise** (fini l'agenda papier et la sauvegarde sur clé USB !!!)
+ - Je deviens **membre du conseil d'administration** de notre fédération, je participe à l'évolution du métier, je conseille d'autres diagnostiqueurs et j'apprends à **communiquer** avec nos adhérents.
+<br>
 
 ## Adulte : 30 ans
 
- - Je prends de plus en plus de plaisir à digitaliser l'entreprise et à me former à la communication digitale.
- - Je décide de me former au développement web pour réaliser mon rêve d'enfant (et parce que je me rends compte que c'est ce que j'aime le plus au fond de moi)
- - Je m'inscris sur OpenClassrooms, je me rends compte que pour être un bon dev il faut comprendre son écosystème. Je passe donc un an en présentiel pour apprendre les bases du développement web, de la communication digitale, du marketing et du design.
- - Je retourne sur OpenClassrooms car je trouve le programme plus cohérent avec le marché du travail.
- - Je crée mon statut freelance, mon réseau me permet de créer des projets concrets, je monte en compétence et je diversifie mes connaissances.
+ - Je prends de plus en plus de plaisir à **digitaliser l'entreprise** et à me former à la communication digitale.
+ - Je décide de me former au **développement web** pour réaliser mon rêve d'enfant (et parce que je me rends compte que c'est ce que j'aime le plus au fond de moi)
+ - Je m'inscris sur **OpenClassrooms**, je me rends compte que pour être un bon dev il faut **comprendre son écosystème**. Je passe donc un an en présentiel pour apprendre les bases du développement web, de la **communication digitale**, du **marketing** et du **design**.
+ - Je retourne sur **OpenClassrooms** car je trouve le programme plus cohérent avec le marché du travail.
+ - Je crée mon statut **freelance**, mon réseau me permet de créer des **projets concrets**, je **monte en compétence** et je **diversifie mes connaissances**.
+<br>
 
 ## Aujourd'hui : 32 ans
 
- - Je cherche un CDI pour obtenir une stabilité financière, pouvoir échanger avec d'autres développeurs, participer à des projets plus ambitieux.
+ - Je cherche un CDI pour obtenir une **stabilité financière**, pouvoir échanger avec **d'autres développeurs**, participer à des **projets plus ambitieux**.
