@@ -118,8 +118,15 @@
 
 # 🚀 Projets à découvrir
 
-- [**Thomas Lossie**](https://thomas-lossie.fr/) – Site vitrine en **Next.JS** et espace administrateur en **React** et **Node.js** 
-- 🚧 Autres projets disponibles prochainement 🚧
+Création de sites vitrines en **Next.js**, administrable par un **Dashboard** en **React** et **Node.js**.
+<br>
+- [**Thomas Lossie**](https://thomas-lossie.fr/)
+- [**EDH Diagnostic**](https://edh-diagnostic.fr/)
+- [**Sibane Diagnostics**](https://www.sibane.fr/)
+- [**Diag Innov**](https://diaginnov47.fr/)
+- [**Eco Diagnostic Conseil**](https://eco-diagnostic-conseil.fr/)
+- [**RCI Inspections**](https://rci-inspections.fr/)
+- [**JFA Images**](https://jfa-images.fr/)
 <br>
 
 # 📫 Me contacter
