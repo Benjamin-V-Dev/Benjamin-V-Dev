@@ -9,7 +9,7 @@
 
 # 🧰 Stack Technique
 
-👨‍🎓 Comme tout bon développeur qui se respecte, l'apprentissage fait partie de mon quotidien, je vous invite donc a venir voir régulièrement mes évolutions, et si vous voulez prendre le temps de me conseiller j'en serai ravi !
+👨‍🎓 Comme tout bon développeur qui se respecte, l'apprentissage fait partie de mon quotidien, je vous invite donc à venir voir régulièrement mes évolutions, et si vous voulez prendre le temps de me conseiller j'en serai ravi !
 
 ## 🖥️ Frontend
 
