@@ -103,11 +103,11 @@
 
 <p>
   <img src="https://bigbluebutton.org/wp-content/uploads/2013/10/lp-wcag-logo.png" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>&nbsp;SEO</strong>
+  <strong>&nbsp;Accessibilité</strong>
 </p>
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/google-custom-search.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>&nbsp;Accessibilité</strong>
+  <strong>&nbsp;SEO</strong>
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;" />
