@@ -1,11 +1,11 @@
 
 # 👋 Salut, moi c'est Benjamin !
 
-🔎 Développeur web depuis 2023, je recherche un **CDI** (**React** / **Node**) à **Bordeaux** ou **en télétravail**. 
+🔎 Développeur web depuis 2023, je construis des applications web et j’aime aussi contribuer côté équipe IT : outils internes, automatisation, documentation, support applicatif.
 
 # 🧰 Stack Technique
 
-👨‍🎓 Comme tout bon développeur qui se respecte, l'apprentissage fait partie de mon quotidien, je vous invite donc à venir voir régulièrement mes évolutions, et si vous voulez prendre le temps de me conseiller j'en serai ravi !
+👨‍🎓 L'apprentissage fait partie de mon quotidien, je vous invite donc à venir voir régulièrement mes évolutions, et si vous voulez prendre le temps de me conseiller j'en serai ravi !
 
 ## 🖥️ Frontend
 
