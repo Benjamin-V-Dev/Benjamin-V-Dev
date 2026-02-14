@@ -1,7 +1,7 @@
 
 # 👋 Salut, moi c'est Benjamin !
 
-🔎 Développeur web depuis 2023, je construis des applications web et j’aime aussi contribuer côté équipe IT : outils internes, automatisation, documentation, support applicatif.
+🔎 Développeur web depuis 2023, je construis des applications web et j’aime aussi contribuer côté équipe IT : outils internes, automatisation, documentation, formation, support applicatif.
 
 # 🧰 Stack Technique
 
