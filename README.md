@@ -3,10 +3,6 @@
 
 🔎 Développeur web depuis 2023, je recherche un **CDI** (**React** / **Node**) à **Bordeaux** ou **en télétravail**. 
 
-## 📊 Statistiques GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-V-Dev&layout=compact)
-
 # 🧰 Stack Technique
 
 👨‍🎓 Comme tout bon développeur qui se respecte, l'apprentissage fait partie de mon quotidien, je vous invite donc à venir voir régulièrement mes évolutions, et si vous voulez prendre le temps de me conseiller j'en serai ravi !
@@ -146,7 +142,7 @@ Création de sites vitrines en **Next.js**, administrable par un **Dashboard** e
 ## Enfant : < 16 ans
 
  - J'aimais les énigmes, les casses-tête et la logique.
- - Je cassais mes jouets pour comprendre comment ils fonctionnaient.
+ - Je démontais mes jouets pour comprendre comment ils fonctionnaient.
 <br>
 
 ## Adolescent : 16 - 20 ans
