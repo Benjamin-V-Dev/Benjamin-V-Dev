@@ -124,7 +124,6 @@ Création de sites vitrines en **Next.js**, administrable par un **Dashboard** e
 - [**EDH Diagnostic**](https://edh-diagnostic.fr/)
 - [**Sibane Diagnostics**](https://www.sibane.fr/)
 - [**Diag Innov**](https://diaginnov47.fr/)
-- [**Eco Diagnostic Conseil**](https://eco-diagnostic-conseil.fr/)
 - [**RCI Inspections**](https://rci-inspections.fr/)
 - [**JFA Images**](https://jfa-images.fr/)
 <br>
