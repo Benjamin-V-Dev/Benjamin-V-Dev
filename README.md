@@ -168,6 +168,6 @@ Création de sites vitrines en **Next.js**, administrable par un **Dashboard** e
  - Je crée mon statut **freelance**, mon réseau me permet de créer des **projets concrets**, je **monte en compétence** et je **diversifie mes connaissances**.
 <br>
 
-## Aujourd'hui : 32 ans
+## Aujourd'hui : 33 ans
 
  - Je cherche un CDI pour obtenir une **stabilité financière**, pouvoir échanger avec **d'autres développeurs**, participer à des **projets plus ambitieux**.
